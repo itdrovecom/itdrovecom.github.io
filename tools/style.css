@@ -145,12 +145,8 @@ ul.social li a{
 	color: #fff;
 }
 
-ul.social li#facebook a{
-	background: #3b5998;
-}
-
-ul.social li#twitter a{
-	background: #55acee;
+ul.social li#skype a{
+	background: #00aff0;
 }
 
 ul.social li#linkedin a{
@@ -368,12 +364,8 @@ ul.social2 li a{
 	color: #fff;
 }
 
-ul.social2 li#facebook a{
-	background: #3b5998;
-}
-
-ul.social2 li#twitter a{
-	background: #55acee;
+ul.social2 li#skype a{
+	background: #00aff0;
 }
 
 ul.social2 li#linkedin a{
