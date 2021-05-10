@@ -153,6 +153,13 @@ ul.social li#linkedin a{
 	background: #0077b5;
 }
 
+ul.social li#whatsapp a{
+	background: #25D366;
+}
+
+ul.social li#globe a{
+	background: #4267B2;
+}
 
 ul.social li a:hover{
 	opacity: 0.9;
@@ -372,6 +379,13 @@ ul.social2 li#linkedin a{
 	background: #0077b5;
 }
 
+ul.social2 li#whatsapp a{
+	background: #25D366;
+}
+
+ul.social2 li#globe a{
+	background: #4267B2;
+}
 
 ul.social2 li a:hover{
 	opacity: 0.9;
