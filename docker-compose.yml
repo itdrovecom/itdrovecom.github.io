@@ -1,0 +1,13 @@
+version: "3.1"
+services:
+  nginxproxy:
+    container_name: itdrove
+    image: itdrove:latest
+    ports:
+        - 127.0.0.1:9001:9000
+    restart: always
+    networks:
+      - itdrove
+networks:
+  itdrove:
+    external: true
