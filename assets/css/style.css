@@ -4845,14 +4845,14 @@ ul.footer-widget__horizontal-list li {
 =============================================*/
 .cta-bg-image_one {
   background-color: #454545;
-  background-image: url(../images/patterns/mitech-call-to-action-image-global.webp);
+  background-image: url(../images/patterns/itdrove-call-to-action-image-global.webp);
   background-repeat: no-repeat;
   background-position: top 35% right -68px;
 }
 
 .cta-bg-image_two {
   background-color: #f6f2ed;
-  background-image: url(../images/patterns/mitech-home-appointment-call-to-action-bg-image.webp);
+  background-image: url(../images/patterns/itdrove-home-appointment-call-to-action-bg-image.webp);
   background-repeat: no-repeat;
   background-position: top right;
 }
@@ -9995,7 +9995,7 @@ ol {
 =          32. Project Css           =
 ====================================*/
 .projectinfotechno-bg {
-  background-image: url(../images/patterns/mitech-home-infotechno-case-study-section-bg.webp);
+  background-image: url(../images/patterns/itdrove-home-infotechno-case-study-section-bg.webp);
   background-repeat: no-repeat;
   background-position: bottom left;
 }
@@ -10343,14 +10343,14 @@ ol {
 
 .service-contact-bg {
   background-color: #002fa6;
-  background-image: url(../images/bg/mitech-home-services-contact-bg.webp);
+  background-image: url(../images/bg/itdrove-home-services-contact-bg.webp);
   background-repeat: no-repeat;
   background-position: left bottom;
 }
 
 .processing-contact-us-bg {
   background-color: #002fa6;
-  background-image: url(../images/bg/mitech-processing-contact-bg.webp);
+  background-image: url(../images/bg/itdrove-processing-contact-bg.webp);
   background-repeat: no-repeat;
   background-position: top right;
 }
@@ -11593,7 +11593,7 @@ blockquote {
     video section css
 --------------------------*/
 .infotechno-section-bg-01 {
-  background: url(../images/patterns/mitech-home-infotechno-section-company-bg.webp) top 140px left no-repeat, -webkit-linear-gradient(top, #FFF 0, #F5F5F5 100%);
+  background: url(../images/patterns/itdrove-home-infotechno-section-company-bg.webp) top 140px left no-repeat, -webkit-linear-gradient(top, #FFF 0, #F5F5F5 100%);
 }
 
 .infotechno-video-bg {
@@ -12751,7 +12751,7 @@ blockquote {
 .about-resources-wrapper {
   padding: 40px 0;
   background-color: #f8f8f8;
-  background-image: url(../images/bg/mitech-slider-cybersecurity-global-image.webp);
+  background-image: url(../images/bg/itdrove-slider-cybersecurity-global-image.webp);
   background-repeat: no-repeat;
   background-position: center right 40px;
 }
@@ -13353,7 +13353,7 @@ blockquote {
 }
 
 .preview-hero-bg {
-  background: url(../images/hero/mitech-landing-main-slider-bg.webp);
+  background: url(../images/hero/itdrove-landing-main-slider-bg.webp);
   background-size: cover;
   background-position: 50% 50%;
   background-color: transparent;
@@ -13565,7 +13565,7 @@ blockquote {
 }
 
 .layout-section-bg {
-  background: url(../images/preview/mitech-landing-header-preview-bg.webp);
+  background: url(../images/preview/itdrove-landing-header-preview-bg.webp);
   background-color: #f6f2ed;
   background-repeat: no-repeat;
   background-position: bottom right;
@@ -13608,7 +13608,7 @@ blockquote {
 }
 
 .prv-section-footer-bg {
-  background: url(../images/preview/mitech-landing-footer-bg-01.webp);
+  background: url(../images/preview/itdrove-landing-footer-bg-01.webp);
   background-size: cover;
   background-repeat: no-repeat;
 }
